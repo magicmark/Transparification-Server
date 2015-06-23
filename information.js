@@ -4,6 +4,7 @@ var hosts = {
   'bbc.co.uk': 'bbc',
   'm.bbc.co.uk': 'bbc',
   'reddit.com': 'reddit',
+  'www.reddit.com': 'reddit',
   'condenast.co.uk': 'condenast'
 };
 
