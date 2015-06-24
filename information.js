@@ -6,6 +6,7 @@ var hosts = {
   'reddit.com': 'reddit',
   'www.reddit.com': 'reddit',
   'condenast.co.uk': 'condenast'
+  'tumblr.com' : 'tumblr'
 };
 
 var organisations = {
@@ -24,6 +25,14 @@ var organisations = {
   'advancepublications': {
     'owner': null,
     'info': 'Advance Publications'
+  },
+  'tumblr': {
+    'owner': 'yahoo',
+    'info': 'Tumblr'
+  },
+  'yahoo': {
+    'owner': null,
+    'info': 'Yahoo'
   }
 };
 
