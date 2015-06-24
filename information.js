@@ -5,7 +5,10 @@ var hosts = {
   'm.bbc.co.uk': 'bbc',
   'reddit.com': 'reddit',
   'www.reddit.com': 'reddit',
-  'condenast.co.uk': 'condenast'
+  'condenast.co.uk': 'condenast',
+  'tumblr.com' : 'tumblr',
+  'yahoo.com' : 'yahoo',
+  'advance.net' : 'advancepublications'
 };
 
 var organisations = {
@@ -24,6 +27,14 @@ var organisations = {
   'advancepublications': {
     'owner': null,
     'info': 'Advance Publications'
+  },
+  'tumblr': {
+    'owner': 'yahoo',
+    'info': 'Tumblr'
+  },
+  'yahoo': {
+    'owner': null,
+    'info': 'Yahoo'
   }
 };
 
